@@ -3,7 +3,7 @@ A demo Flask application running on Vercel
 
 # Deployment
 
-![Interactive Calendar GUI](your-image-link.jpg)
+![live]((https://news-feed-ivory-two.vercel.app/))
 
 ![Cover image](newsfeed.jpg)
 
