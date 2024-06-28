@@ -1,4 +1,4 @@
-# Vercel flask
+# News Feed sample
 A demo Flask application running on Vercel
 
 # Deployment
