@@ -5,6 +5,6 @@ A demo Flask application running on Vercel
 
 ![Interactive Calendar GUI](your-image-link.jpg)
 
-![Cover image](neewsfeed.jpg)
+![Cover image](newsfeed.jpg)
 
 
